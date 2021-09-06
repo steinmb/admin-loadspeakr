@@ -1,0 +1,6 @@
+[submodule "loadspeakr"]
+	path = loadspeakr
+	url = git@git.app.uib.no:uib-ub/spesialsamlingene/marcus-lodspeakr.git
+[submodule "components"]
+	path = components
+	url = git@git.app.uib.no:uib-ub/spesialsamlingene/admin-components.git
